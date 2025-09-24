@@ -1,0 +1,9 @@
+# backend/requirements.txt
+django>=4.0
+djangorestframework
+psycopg2-binary
+celery
+redis
+pandas
+openpyxl
+django-celery-results 

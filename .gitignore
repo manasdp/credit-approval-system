@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Django
+db.sqlite3
+
+# IDEs
+.idea/
+.vscode/
